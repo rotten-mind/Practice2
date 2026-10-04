@@ -24,6 +24,7 @@
 # IDE / generated project files
 # ==============================
 
+.vscode/
 .vs/
 .idea/
 
